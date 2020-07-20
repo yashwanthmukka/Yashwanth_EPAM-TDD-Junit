@@ -1,5 +1,4 @@
 package com.epam.tddjunitassignment;
-
 /**
  * Hello world!
  *
